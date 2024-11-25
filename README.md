@@ -14,7 +14,8 @@ Precision Neuroscience
 Benjamin Rapoport, Michael Mager, Demetrios Papageorgiou, and Mark Hettick
 
 **Origin of the Company:**  
-Precision Neuroscience was founded when neurosurgeon and engineer Benjamin Rapoport and business builder Michael Mager joined forces to fulfill Ben’s lifelong dream of bringing brain–computer interfaces (BCIs) to the medical field. They aimed to develop a high-bandwidth connection to the brain that does not rely on penetrating electrodes, which can damage brain tissue. Their vision of a safe, minimally invasive brain–computer interface shaped both their product development and company culture, focusing on pushing technological boundaries while prioritizing human health.  
+Precision Neuroscience was founded when neurosurgeon and engineer Benjamin Rapoport and business builder Michael Mager joined forces to fulfill Ben’s lifelong dream of bringing brain–computer interfaces (BCIs) to the medical field. They aimed to develop a high-bandwidth connection to the brain that does not rely on penetrating electrodes, which can damage brain tissue. Their vision of a **safe, minimally invasive brain–computer interface** shaped both their product development and company culture, focusing on pushing technological boundaries while prioritizing human health. Their founders state that this technology provides the world’s highest resolution picture of human thought.
+> "The world’s highest resolution picture of human thought."  
 [Learn More](https://precisionneuro.io/about)
 
 **Funding:**  
@@ -37,10 +38,10 @@ The brain-computer interface sector is rapidly expanding, driven by numerous wel
 **Market Statistics:**
 - **Spinal Cord Injury (SCI):** More than 17,000 new cases of acute SCI present to US hospitals each year, with an estimated 291,000 people currently living with chronic SCI.  
   *Reference: Ahuja, C. S., et al. (2017). "Traumatic spinal cord injury." Nat Rev Dis Primers, 3, 17018.*
-
+  
 - **Stroke:** Each year, about 795,000 people in the United States have strokes, with 137,000 of these incidents resulting in death. Approximately 610,000 of these cases are first strokes.  
   *Reference: Tsao CW, et al. (2023). "Heart disease and stroke statistics—2023 update: a report from the American Heart Association." Circulation.*
-
+  
 - **ALS:** The Registry identified 21,655 cases of ALS in 2018, with an age-adjusted prevalence of 6.6 per 100,000 U.S. population.  
   *Reference: Mehta, Paul et al. “Prevalence of amyotrophic lateral sclerosis in the United States, 2018.” Amyotrophic lateral sclerosis & frontotemporal degeneration, 1-7. 21 Aug. 2023.*
 
@@ -68,7 +69,6 @@ Over the past decade, the brain-computer interface field has seen significant ad
 - **2021:** Development and patenting of the first version of the Layer 7 Cortical Interface by Precision Neuroscience.
 - **2023:** Neuralink’s PRIME Study (Precise Robotically Implanted Brain-Computer Interface) opens for recruitment.
 - **2023:** Launch of clinical partnership with West Virginia University; first human implantation of Precision Neuroscience’s Layer 7 Cortical Interface.
-
 
 **Major Competitors in the Field:**
 
@@ -117,13 +117,14 @@ Over the past decade, the brain-computer interface field has seen significant ad
 
 **Business Impact of Precision Neuroscience:**
 
-Since its founding in 2021 by a former Neuralink co-founder, Precision Neuroscience has rapidly become a leader in the neurotechnology sector. **Technologically**, the company has set a record by deploying **4,096 electrodes** in their brain-computer interfaces, delivering unparalleled neural signal resolution for precise decoding of neuronal electrical signals.
+Since its founding in 2021 by a former Neuralink co-founder, Precision Neuroscience has rapidly become a leader in the neurotechnology sector. **Technologically**, the company has set a record by deploying **4,096 electrodes** in their brain-computer interfaces (BCIs), delivering unparalleled neural signal resolution for precise decoding of neuronal electrical signals.
 
 **Financially**, Precision Neuroscience has demonstrated strong growth by securing a **$41 million Series B funding round** and forming strategic partnerships with esteemed institutions such as **Mount Sinai** and **West Virginia University**. Recently, the company raised an additional **$93 million** in a planned **$100 million funding round**, boosting its valuation to approximately **$500 million**.  
 [Bloomberg](https://www.bloomberg.com/news/articles/2024-11-06/neuralink-rival-precision-neuroscience-raises-93-million) | [CNBC](https://www.cnbc.com/2023/06/23/precision-a-neuralink-competitor-conducts-its-first-clinical-study.html)
 
 **Health and Regulatory Achievements:**  
-Precision Neuroscience's **Layer 7 Cortical Interface** has received **FDA Breakthrough Designation**, advancing its path toward FDA approval and broader clinical applications. The company successfully conducted its first in-human clinical study, demonstrating the reliability and effectiveness of their technology in real-world medical procedures, including **brain tumor removals**.
+Precision Neuroscience's **Layer 7 Cortical Interface** has received **FDA Breakthrough Designation**, advancing its path toward FDA approval and broader clinical applications.  
+> "The company successfully conducted its first in-human clinical study, demonstrating the reliability and effectiveness of their technology in real-world medical procedures, including brain tumor removals."
 
 Overall, Precision Neuroscience’s advancements in electrode technology, substantial financial backing, strategic partnerships, and significant regulatory milestones underscore its substantial business impact and leadership in the brain-computer interface industry.
 
@@ -261,3 +262,4 @@ These technologies collectively empower Precision Neuroscience to deliver superi
 19. [Wired YouTube Video](https://www.youtube.com/watch?v=Gv_XB6Hf6gM&ab_channel=WIRED)
 
 ---
+
